@@ -15,5 +15,5 @@
 ## How to run
 For example, to run ADAPT-VQE on H$_2$ molecule with 4 MPI processes, simply run
 ```
-mpiexecjl -n 4 julia adapt_vqe.jl inputs/input h2
+mpiexecjl -n 4 julia adapt_vqe.jl inputs/input_h2
 ```
